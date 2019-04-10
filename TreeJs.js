@@ -155,8 +155,8 @@ var str =root;
 root.CountwittraversDF(function(data){
  // console.log(data);
  });
- var countt = 1;
-//var countt = prompt("Enter count of tree");
+//var countt = 1;
+var countt = prompt("Enter count of tree");
  console.log("Count of B node with Value and Coefficient :"+CountOfB*3*countt);
  console.log("Count of C node with value  and Coefficient :"+CountOfC*2*countt);
  console.log("Count of D node with value  and Coefficient :"+CountOfD*7*countt);
